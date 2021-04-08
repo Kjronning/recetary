@@ -11,7 +11,7 @@
 	<groupId>com.joakimronning.recetary</groupId>
 	<artifactId>recetary</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Receiptary</name>
+	<name>Recetary</name>
 	<description>Recipe making application</description>
 	<properties>
 		<java.version>11</java.version>
